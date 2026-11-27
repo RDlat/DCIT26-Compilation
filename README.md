@@ -10,6 +10,6 @@ A compilation of React Native examples for the course DCIT 26 – Application De
 * https://snack.expo.dev/@gaano/gaano_lab6
 * https://snack.expo.dev/@gaano/gaano_lab7
 
-## Submitted by:
+## Members (BSCS3-2):
 * Gaano, Ray Ardee F.
 * BSCS 3-2
