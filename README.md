@@ -12,4 +12,4 @@ A compilation of React Native examples for the course DCIT 26 – Application De
 
 ## Members (BSCS3-2):
 * Gaano, Ray Ardee F.
-* BSCS 3-2
+
